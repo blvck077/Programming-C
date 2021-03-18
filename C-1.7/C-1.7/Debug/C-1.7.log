@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\shama\source\repos\C-1.7\C-1.7\main.c(14,29): warning C4013: getNthDigit: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\shama\source\repos\C-1.7\C-1.7\main.c(40,17): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+  C-1.7.vcxproj -> C:\Users\shama\source\repos\C-1.7\Debug\C-1.7.exe

@@ -1,0 +1,23 @@
+﻿  main.c
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(6,11): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(18,29): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(18,29): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(22,33): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(22,33): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(32,26): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(32,26): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(62,23): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(62,23): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(67,31): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(67,31): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(73,31): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(73,31): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(79,31): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(79,31): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(99,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(100,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(101,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(102,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(103,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\shama\source\repos\C-2.7\LR2.7\main.c(104,1): warning C4305: инициализация: усечение из "double" в "float"
+  LR2.7.vcxproj -> C:\Users\shama\source\repos\C-2.7\Debug\LR2.7.exe
