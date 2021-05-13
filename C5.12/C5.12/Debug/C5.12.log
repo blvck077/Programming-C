@@ -1,5 +1,0 @@
-﻿  C5.12.cpp
-C:\Users\shama\source\repos\C5.12\C5.12\C5.12.cpp(10,2): warning C4091: typedef : пропускается слева от "QueueNode", когда ни одна переменная не объявлена
-C:\Users\shama\source\repos\C5.12\C5.12\C5.12.cpp(13,2): warning C4091: typedef : пропускается слева от "Queue", когда ни одна переменная не объявлена
-C:\Users\shama\source\repos\C5.12\C5.12\C5.12.cpp(196): warning C4715: getNthStackNode: значение возвращается не при всех путях выполнения
-  C5.12.vcxproj -> C:\Users\shama\source\repos\C5.12\Debug\C5.12.exe
