@@ -55,7 +55,7 @@ void list :: DeleteElement(TComboBox*ComboBox, TMemo*Memo)
 		temp = head;
 		head = head->next;
 		ComboBox->Items->Delete(0);
-		Memo->Lines->Add("Работник уволен.");
+		Memo->Lines->Add("Модель уволена.");
 		delete temp;
 	}
 	else{
@@ -78,7 +78,7 @@ void list :: DeleteElement(TComboBox*ComboBox, TMemo*Memo)
 
 		if(c)
 		{
-			Memo->Lines->Add("Работник уволен.");
+			Memo->Lines->Add("Модель уволена.");
 			ComboBox->Items->Delete(ComboBox->ItemIndex);
 		}
 
@@ -123,7 +123,7 @@ void list :: FindName(TEdit*Edit, TMemo*Memo)
 	}
 
 	if(temp == NULL && !c)
-		Memo->Lines->Add("Работник не найден.");
+		Memo->Lines->Add("Модель не найдена.");
 }
 
 void list :: FindBirthday(TEdit*Edit, TMemo*Memo)
@@ -150,7 +150,7 @@ void list :: FindBirthday(TEdit*Edit, TMemo*Memo)
 	}
 
 	if(temp == NULL && !c)
-		Memo->Lines->Add("Работник не найден.");
+		Memo->Lines->Add("Модель не найдена.");
 }
 
 void list :: FindPassport(TEdit*Edit, TMemo*Memo)
@@ -177,7 +177,7 @@ void list :: FindPassport(TEdit*Edit, TMemo*Memo)
 	}
 
 	if(temp == NULL && !c)
-		Memo->Lines->Add("Работник не найден.");
+		Memo->Lines->Add("Модель не найдена.");
 }
 
 void list :: FindInsurance(TEdit*Edit, TMemo*Memo)
@@ -204,7 +204,7 @@ void list :: FindInsurance(TEdit*Edit, TMemo*Memo)
 	}
 
 	if(temp == NULL && !c)
-		Memo->Lines->Add("Работник не найден.");
+		Memo->Lines->Add("Модель не найдена.");
 }
 
 void list :: FindEducation(TEdit*Edit, TMemo*Memo)
@@ -231,7 +231,7 @@ void list :: FindEducation(TEdit*Edit, TMemo*Memo)
 	}
 
 	if(temp == NULL && !c)
-		Memo->Lines->Add("Работник не найден.");
+		Memo->Lines->Add("Модель не найдена.");
 }
 
 void list :: FindPost(TEdit*Edit, TMemo*Memo)
@@ -258,7 +258,7 @@ void list :: FindPost(TEdit*Edit, TMemo*Memo)
 	}
 
 	if(temp == NULL && !c)
-		Memo->Lines->Add("Работник не найден.");
+		Memo->Lines->Add("Модель не найдена.");
 }
 
 void list :: FindSalary(TEdit*Edit, TMemo*Memo)
@@ -285,7 +285,7 @@ void list :: FindSalary(TEdit*Edit, TMemo*Memo)
 	}
 
 	if(temp == NULL && !c)
-		Memo->Lines->Add("Работник не найден.");
+		Memo->Lines->Add("Модель не найдена.");
 }
 
 void list :: FindHiring(TEdit*Edit, TMemo*Memo)
@@ -312,6 +312,6 @@ void list :: FindHiring(TEdit*Edit, TMemo*Memo)
 	}
 
 	if(temp == NULL && !c)
-		Memo->Lines->Add("Работник не найден.");
+		Memo->Lines->Add("Модель не найдена.");
 }
 
